@@ -1,1 +1,1 @@
-init delovelop
+init develope
